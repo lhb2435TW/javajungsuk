@@ -31,7 +31,9 @@
       <module fileurl="file://$PROJECT_DIR$/Ch15_FileEx7/Ch15_FileEx7.iml" filepath="$PROJECT_DIR$/Ch15_FileEx7/Ch15_FileEx7.iml" />
       <module fileurl="file://$PROJECT_DIR$/Ch15_FileEx8/Ch15_FileEx8.iml" filepath="$PROJECT_DIR$/Ch15_FileEx8/Ch15_FileEx8.iml" />
       <module fileurl="file://$PROJECT_DIR$/Ch15_FileEx9/Ch15_FileEx9.iml" filepath="$PROJECT_DIR$/Ch15_FileEx9/Ch15_FileEx9.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Ch15_FileMerge/Ch15_FileMerge.iml" filepath="$PROJECT_DIR$/Ch15_FileMerge/Ch15_FileMerge.iml" />
       <module fileurl="file://$PROJECT_DIR$/Ch15_FileReaderEx1/Ch15_FileReaderEx1.iml" filepath="$PROJECT_DIR$/Ch15_FileReaderEx1/Ch15_FileReaderEx1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Ch15_FileSplit/Ch15_FileSplit.iml" filepath="$PROJECT_DIR$/Ch15_FileSplit/Ch15_FileSplit.iml" />
       <module fileurl="file://$PROJECT_DIR$/Ch15_FileViewer/Ch15_FileViewer.iml" filepath="$PROJECT_DIR$/Ch15_FileViewer/Ch15_FileViewer.iml" />
       <module fileurl="file://$PROJECT_DIR$/Ch15_IOEx1/Ch15_IOEx1.iml" filepath="$PROJECT_DIR$/Ch15_IOEx1/Ch15_IOEx1.iml" />
       <module fileurl="file://$PROJECT_DIR$/Ch15_IOEx2/Ch15_IOEx2.iml" filepath="$PROJECT_DIR$/Ch15_IOEx2/Ch15_IOEx2.iml" />
@@ -47,6 +49,8 @@
       <module fileurl="file://$PROJECT_DIR$/Ch15_StandardIOEx1/Ch15_StandardIOEx1.iml" filepath="$PROJECT_DIR$/Ch15_StandardIOEx1/Ch15_StandardIOEx1.iml" />
       <module fileurl="file://$PROJECT_DIR$/Ch15_StandardIOEx3/Ch15_StandardIOEx3.iml" filepath="$PROJECT_DIR$/Ch15_StandardIOEx3/Ch15_StandardIOEx3.iml" />
       <module fileurl="file://$PROJECT_DIR$/Ch15_StringReaderWriterEx/Ch15_StringReaderWriterEx.iml" filepath="$PROJECT_DIR$/Ch15_StringReaderWriterEx/Ch15_StringReaderWriterEx.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Ch15_UserInfo/Ch15_UserInfo.iml" filepath="$PROJECT_DIR$/Ch15_UserInfo/Ch15_UserInfo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Ch15_UserInfo2/Ch15_UserInfo2.iml" filepath="$PROJECT_DIR$/Ch15_UserInfo2/Ch15_UserInfo2.iml" />
       <module fileurl="file://$PROJECT_DIR$/Ch9_BigDecimalEx/Ch9_BigDecimalEx.iml" filepath="$PROJECT_DIR$/Ch9_BigDecimalEx/Ch9_BigDecimalEx.iml" />
       <module fileurl="file://$PROJECT_DIR$/Ch9_BigIntegerEx/Ch9_BigIntegerEx.iml" filepath="$PROJECT_DIR$/Ch9_BigIntegerEx/Ch9_BigIntegerEx.iml" />
       <module fileurl="file://$PROJECT_DIR$/Ch9_MathEx2/Ch9_MathEx2.iml" filepath="$PROJECT_DIR$/Ch9_MathEx2/Ch9_MathEx2.iml" />
